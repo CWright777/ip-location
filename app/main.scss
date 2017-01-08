@@ -1,0 +1,16 @@
+$icon-font-path: '~bootstrap-sass/assets/fonts/bootstrap/';
+@import '~bootstrap-sass/assets/stylesheets/_bootstrap.scss';
+
+body {
+  background: white;
+}
+
+.main-contatiner {
+  h1 {
+    margin: 0;
+  }
+}
+
+.trivago-header {
+  background-color: white;
+}
